@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.o
+*.a
+*.so
+*.dylib
+*.out
+*.raw
+*.wav
+*.macho
+audio_direct_submit
+.DS_Store
